@@ -1,0 +1,16 @@
+.navbar-brand img{
+	width: 120px;
+}
+body{
+	font-family: cursive;
+}
+
+table{
+	text-align: center;
+}
+tbody .btn{
+	border-radius: 50%;
+}
+nav{
+	box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.5);
+}
